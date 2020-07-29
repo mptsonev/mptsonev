@@ -16,7 +16,7 @@ Every **Great App** needs a good foundation. It has to be robust, scalable and w
 * NoSQL (Redis and MongoDB :leaves:)
 * Python/Django (no more Django templates please :confounded:)
 
-### Step two - build a beautiful presentation
+### Step two - build a beautiful presentation :gem:
 
 An aesthetic, intuitive UI is a must. My experience is with:
 
@@ -25,7 +25,7 @@ An aesthetic, intuitive UI is a must. My experience is with:
 * HTML(5) :hammer:
 * CSS/SASS/LESS :lipstick:
 
-### Step three - Quality Control
+### Step three - Quality Control :customs:
 
 Testing is something I take very seriously. I've spent many hours with:
 
@@ -39,7 +39,7 @@ Testing is something I take very seriously. I've spent many hours with:
 
 And of course, **Sanity** and **Smoke** tests should be performed for every new release. **Health checks** are also nice :white_check_mark:.
 
-### Step four - put it all together
+### Step four - put it all together :nut_and_bolt:
 
 Building everything together consistently is a must. You won't hear the famous *It runs on my PC* anymore, if you use:
 
@@ -61,7 +61,7 @@ Once everything is ready, serve it to the users with:
 * Traefik
 * HAProxy
 
-### Collect some feedback
+### Collect some feedback :scroll:
 
 What if something does go wrong? Having good logs and monitoring can be crucial. My experience lies with:
 
