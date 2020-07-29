@@ -4,7 +4,7 @@ I'm a Full Stack Software Engineer with 4 years of experience in developing qual
 
 I'm passionate about both Software *and* Cooking, so follow along my recipe for a **Great App**.
 
-## How to cook up a great app
+## How to cook up a Great App
 ### Step one - mix in some business logic and persistance :cocktail:
 
 Every **Great App** needs a good foundation. It has to be robust, scalable and wellrounded. I've used:
