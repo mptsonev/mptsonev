@@ -1,24 +1,72 @@
-# Mihail Tsonev
+# Hello there!
 
-I'm a Software Developer with a strong academic background and 4 years of experience in developing quality Web Applications with high availability. Modern technologies excite me and I always strive to be up to speed with current trends. I enjoy working in a fast-paced, collaborative environment that promotes positive communication and talent development.
+I'm a Full Stack Software Engineer with 4 years of experience in developing quality Web Applications with high availability. Modern technologies excite me and I always strive to be up to speed with current trends. I like simple, clean and reusable code that is properly tested and documented.
 
-## Work experience
-### Full Stack Engineer | Schonfeld Strategic Advisors LLC
-**March 2020 - Present**
+I'm passionate about both Software *and* Cooking, so follow along my recipe for a **Great App**.
 
-I am currently employed as a Full Stack Engineer at Schonfeld Strategic Advisors. As such, my responsibilities are mostly focused around developing and maintaining several backing microservices and building the UI for our users. Our microservices are developed in Java and the Frontend is built in React. Since Schonfeld's business is dealing with money, very high code quality is expected. 
+## How to cook up a great app
+### Step one - mix in some business logic and persistance :cocktail:
 
-### Software Engineer | CheMondis GmbH
-**March 2019 - March 2020**
+Every **Great App** needs a good foundation. It has to be robust, scalable and wellrounded. I've used:
 
-CheMnodis, a subsidiary company of Lanxess, has its business in the Chemical industry. As such, our main focus was to develop a B2B marketplace that connects Buyers and Suppliers from the industry to create business. I functioned as a Full Stack developer, using Python with Django for the Backend and React for the Frontend.
+* Java (always the latest version :fire:)
+* Spring/Spring Boot :rocket:
+* Kafka :minibus:
+* SQL (preferably PostgreSQL :elephant:)
+* NoSQL (Redis and MongoDB :leaves:)
+* Python/Django (no more Django templates please :confounded:)
 
-### Java Developer | Tick Tech Ltd.
-**April 2018 - March 2019**
+### Step two - build a beautiful presentation
 
-Tick Tech's highly dynamic startup environment has taught me how to work around tight schedules and provide the best solutions according to the company's goals. We were developing a Trading Platform and utilized a complex Server Cluster using Kafka, MongoDB and Java for the core components.
+An aesthetic, intuitive UI is a must. My experience is with:
 
-### Junior Java Developer | Sap Labs Ltd.
-**May 2016 - March 2018**
+* JavaScript/TypeScript :house_with_garden:
+* React, Redux :six_pointed_star:
+* HTML(5) :hammer:
+* CSS/SASS/LESS :lipstick:
 
-My core responsibility at SAP was the development of a Web Application in Java for the Cloud Foundry PaaS, which managed the lifecycle of multi-application services. The main technologies used were Java and Node.js for the Backend, Go for the client, and PostgreSQL and SAP HANA for persistence.
+### Step three - Quality Control
+
+Testing is something I take very seriously. I've spent many hours with:
+
+* JUnit (**Unit** testing)
+* Mockito/PowerMockito (**Unit** testing)
+* Jest (**Unit** testing)
+* MochaJS (**Unit** testing)
+* Locust (**Load/Stress** testing)
+* JMeter (**Load/Stress** testing)
+* Selenium (**End to End** testing)
+
+And of course, **Sanity** and **Smoke** tests should be performed for every new release. **Health checks** are also nice :white_check_mark:.
+
+### Step four - put it all together
+
+Building everything together consistently is a must. You won't hear the famous *It runs on my PC* anymore, if you use:
+
+* Maven
+* Webpack
+* Jenkins
+* GoCD
+* Docker
+* Kubernetes
+* Helm
+
+### And finally - serve :fork_and_knife:
+
+Once everything is ready, serve it to the users with:
+
+* Tomcat
+* WebPack
+* Nginx
+* Traefik
+* HAProxy
+
+### Collect some feedback
+
+What if something does go wrong? Having good logs and monitoring can be crucial. My experience lies with:
+
+* SLF4J
+* Kibana
+* Logstash
+* Datadog
+* Java Management Extensions (JMX)
