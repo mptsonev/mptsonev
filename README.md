@@ -41,7 +41,7 @@ And of course, **Sanity** and **Smoke** tests should be performed for every new 
 
 ### Step four - put it all together :nut_and_bolt:
 
-Building everything together consistently is a must. You won't hear the famous *It runs on my PC* anymore, if you use:
+Building everything together consistently is a must. You won't hear the famous *It runs on my PC* anymore if you use:
 
 * Maven
 * Webpack
