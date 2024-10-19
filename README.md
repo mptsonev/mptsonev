@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm a Full Stack Software Engineer with 4 years of experience in developing quality Web Applications with high availability. Modern technologies excite me and I always strive to be up to speed with current trends. I like simple, clean and reusable code that is properly tested and documented.
+I'm a Full Stack Software Engineer with experience in developing quality Web Applications with high availability. Modern technologies excite me and I always strive to be up to speed with current trends. I like simple, clean and reusable code that is properly tested and documented.
 
 I'm passionate about both Software *and* Cooking, so follow along my recipe for a **Great App**.
 
@@ -9,12 +9,12 @@ I'm passionate about both Software *and* Cooking, so follow along my recipe for 
 
 Every **Great App** needs a good foundation. It has to be robust, scalable and wellrounded. I've used:
 
-* Java (always the latest version :fire:)
+* Java (always the latest lts version :fire:)
 * Spring/Spring Boot :rocket:
 * Kafka :minibus:
 * SQL (preferably PostgreSQL :elephant:)
 * NoSQL (Redis and MongoDB :leaves:)
-* Python/Django (no more Django templates please :confounded:)
+* TypeScript/NodeJS/NextJS 
 
 ### Step two - build a beautiful presentation :gem:
 
@@ -35,7 +35,7 @@ Testing is something I take very seriously. I've spent many hours with:
 * MochaJS (**Unit** testing)
 * Locust (**Load/Stress** testing)
 * JMeter (**Load/Stress** testing)
-* Selenium (**End to End** testing)
+* Cypress and Selenium (**End to End** and **Component** testing)
 
 And of course, **Sanity** and **Smoke** tests should be performed for every new release. **Health checks** are also nice :white_check_mark:.
 
@@ -55,6 +55,8 @@ Building everything together consistently is a must. You won't hear the famous *
 
 Once everything is ready, serve it to the users with:
 
+* Vercel
+* AWS
 * Tomcat
 * WebPack
 * Nginx
@@ -69,4 +71,5 @@ What if something does go wrong? Having good logs and monitoring can be crucial.
 * Kibana
 * Logstash
 * Datadog
+* CloudWatch
 * Java Management Extensions (JMX)
